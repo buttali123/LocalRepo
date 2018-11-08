@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hello Friend Chai Pee Loo
 Hello Friends
+=======
+Hello Friend Chai Pee Lo
+
+
+>>>>>>> master
